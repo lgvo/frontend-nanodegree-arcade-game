@@ -6,11 +6,11 @@ frontend-nanodegree-arcade-game
 
  This Project is part of the Udacity Front-End NanoDegree.
 
- ## Downloading and Running
+## Downloading and Running
 
  Download the project as a Zip file then extract at some folder. After that open the index.html and the game will start.
 
- ## Playing
+## Playing
 
  At start use the arrows to select your char than press enter.
  You can move you char as you want to, but if you touch bug or jump in the water you char will die.
